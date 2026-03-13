@@ -1,0 +1,1 @@
+#IAgent arayüzünü uygulayan, Google Gemini API ile konuşarak HandoffState (CIR) nesnesine kod ve mimari karar üreten Yaratıcı ajan.
